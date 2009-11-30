@@ -2,6 +2,10 @@
 CHANGELOG
 =======================
 
+UP
+----------
+    - integrate other recipes
+
 1.35
 --------
 
