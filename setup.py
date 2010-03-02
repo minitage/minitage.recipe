@@ -6,7 +6,7 @@ setupdir = os.path.abspath(
 os.chdir(setupdir)
 
 name='minitage.recipe'
-version = '1.40'
+version = '1.41'
 
 def read(*rnames):
     return open(
@@ -56,9 +56,6 @@ setup(
         'minitage.recipe.du',
         'minitage.recipe.egg',
         'minitage.recipe.scripts',
-        'minitage.recipe.fetch',
-        'minitage.recipe.wsgi',
-        'minitage.recipe.printer',
     ],
     extras_require={'test': ['IPython', 'zope.testing', 'mocker']},
     #tests_require = ['zope.testing'],
