@@ -35,7 +35,7 @@ You can migrate your buldouts without any effort with buildout.minitagificator:
     * http://pypi.python.org/pypi/buildout.minitagificator
 
 ======================================
-Makina Corpus Sponsorised software
+Makina Corpus sponsorised software
 ======================================
 
   http://www.makina-corpus.com & http://makina-corpus.org
